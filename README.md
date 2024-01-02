@@ -1,6 +1,6 @@
 # ChatiBank: Simplifying Banking for Seniors and Differently Abled 🌐💬💳
 
-Developers: Raman, Jae, Nic, Puri, Jing Jie
+Developers: Raman, Jae, Nic, Puri, Jing Jie. This is a project under the NUS Fintech Society Machine Learning Department.
 
 ## Problem Statement 🤔
 

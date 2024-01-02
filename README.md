@@ -1,5 +1,7 @@
 # ChatiBank: Simplifying Banking for Seniors and Differently Abled 🌐💬💳
 
+Developers: Raman, Jae, Nic, Puri, Jing Jie
+
 ## Problem Statement 🤔
 
 Modern UIs and applications, while efficient for many, pose significant challenges for older generations due to their complexity and overwhelming nature. Digital banking lacks familiarity and simplicity that older generations were accustomed to in the past. Current chatbots are merely retrieval tools, not acting agents.

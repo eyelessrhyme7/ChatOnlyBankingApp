@@ -23,9 +23,14 @@ We use ChatGPT4 (Base) as the underlying model, Selenium for web macros, and Str
 ## How to Run on Your Local Machine 🏠🖥️
 
 1. Clone the repository.
-2. Install dependencies using the provided requirements file.
-3. Set up your local environment with the required configurations.
-4. Run the application locally using Streamlit.
+2. Install dependencies (openai, streamlit, selenium, undetected_chromedriver) and update to latest versions
+3. Set up your local environment with the required configurations. Ensure you have Chrome Browser Version 117 or higher
+4. Use your own username, passwrd for DBS and openai_api_key in the chatbot.py file.
+5. Run the application locally using 'streamlit run chatbot.py' in the terminal
+
+## Next Steps
+1. Currently, the application supports 5 IBanking features, Transfer to PayNow, Transfer to DBS/POSB, Transfer to Other Account, PayNow topup.
+2. Looking to expand into bill payments, and a more complex invest feature which could condense and present information from the DBS Invest Tab.
 
 ChatiBank strives to make banking accessible and enjoyable for everyone, ensuring that the digital transition doesn't leave anyone behind. 💙🤖
 

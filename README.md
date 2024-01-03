@@ -10,6 +10,12 @@ Modern UIs and applications, while efficient for many, pose significant challeng
 
 ChatiBank is a Chat-Only Interface designed to bridge the usability gap, providing senior citizens with a user-friendly, intuitive, and human-like interaction platform. It aims to recreate the simplicity of the past, where walking into a bank meant a human handled everything, also eliminating the need for form-filling.
 
+![Screenshot 2024-01-03 230714](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/4a395a63-b969-4fba-a8fe-66fdabf3ee39)
+
+![Screenshot 2024-01-03 231239](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/e1172070-1205-4edb-8ac3-7884376981c7)
+
+![image](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/5c5c08aa-e3c3-4969-a6f7-4e45ea9083b0)
+
 ## Implementation 🛠️
 
 We use ChatGPT4 (Base) as the underlying model, Selenium for web macros, and Streamlit for a simple chat-interface. The application is made on top of the DBS Digibank Website, and tested using personal accounts in a local setting, keeping in mind web requests frequency, thus, not violating terms of usage.

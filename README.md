@@ -19,6 +19,7 @@ We use ChatGPT4 (Base) as the underlying model, Selenium for web macros, and Str
 - **chatgpt-4 (base model):** $0.03/1k for input + $0.06/1k for output
 - **Avg Price Per Conversation:** [Avg # of input (20,000) * 0.03 + Avg # of output (500) * 0.06]/1000 = 63c
 - One API request rarely exceeds 3500 tokens, making models with longer context windows unnecessary for this project.
+- ALTERNATE: chatgpt-3.5-turbo-16k context is also good if one provides more examples for learning. Currently, we use 6 examples which is enough for gpt-4. There is a trade-off in speed since gpt-4 is rate-limited to 10000 tokens per minute (TPM). So an alternative approach with gpt3.5-turbo and more examples is also viable which allows for 60000TPM
 
 ## How to Run on Your Local Machine 🏠🖥️
 

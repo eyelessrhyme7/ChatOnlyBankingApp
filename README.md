@@ -11,10 +11,13 @@ Modern UIs and applications, while efficient for many, pose significant challeng
 ChatiBank is a Chat-Only Interface designed to bridge the usability gap, providing senior citizens with a user-friendly, intuitive, and human-like interaction platform. It aims to recreate the simplicity of the past, where walking into a bank meant a human handled everything, also eliminating the need for form-filling.
 
 ![Screenshot 2024-01-03 230714](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/4a395a63-b969-4fba-a8fe-66fdabf3ee39)
+Picture 1: Form filling for transfers in a conversational manner
 
 ![Screenshot 2024-01-03 231239](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/e1172070-1205-4edb-8ac3-7884376981c7)
+Picture 2: Successful transfer processed using macros at the backend
 
 ![image](https://github.com/eyelessrhyme7/ChatOnlyBankingApp/assets/59199841/5c5c08aa-e3c3-4969-a6f7-4e45ea9083b0)
+Picture 3: Chatibank AI keeping within constraints and refraining from answering personal/sensitive questions
 
 ## Implementation 🛠️
 

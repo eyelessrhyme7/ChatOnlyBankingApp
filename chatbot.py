@@ -42,7 +42,7 @@ st.header("Chat-Only Banking App")
 st.write("Developers: Raman, Jae, Nic, Puri, Jing Jie")
 
 # B: OpenAIAPI Details
-openai.api_key = "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"
+openai.api_key = ""
 conversation=[{"role": "system", "content": "You are a helpful bank customer assistant."}] #list of dialogue dictionaries
 
 # C: Global Variables OR Streamlit States
